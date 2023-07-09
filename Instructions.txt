@@ -1,0 +1,29 @@
+Simple Calculator - Instructions
+
+1. Compilation:
+   - Open a C++ compiler or IDE of your choice.
+   - Create a new C++ project or file.
+   - Copy and paste the calculator code into the project or file.
+
+2. Building and Running:
+   - Compile the code using the compiler or IDE.
+   - Run the compiled program.
+   - The program will prompt you to enter two numbers and an operation.
+
+3. Performing Calculations:
+   - Enter the first number.
+   - Enter the desired operation: + for addition, - for subtraction, * for multiplication, / for division.
+   - Enter the second number.
+   - The program will display the result of the calculation.
+
+4. Error Handling:
+   - The program handles division by zero and displays an error message in such cases.
+   - Make sure to provide valid input and avoid dividing by zero.
+
+5. Customization and Enhancements:
+   - Feel free to modify the code to add more features or enhance the calculator's functionality.
+   - You can implement additional operations, support decimal numbers, or handle more complex expressions.
+
+Note: This is a basic calculator program designed to perform simple arithmetic calculations. It may not cover all edge cases or handle complex expressions. Use it as a starting point for learning and experimentation.
+
+For any issues or questions, please refer to the README.txt file or consult the project documentation.
